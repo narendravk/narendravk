@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Narendra!
-A Project Management Professional and Ex Project Controls Engineer, now I design and develop project monitoring and management solutions focussed on construction sector.
-I love python but inevitably work on Java projects.
+A Project Management Professional and Ex Project Controls Engineer, now I design and develop project monitoring and management solutions focussed on construction sector.<br>
+I love python but inevitably work on Java projects.<br>
 And yeah, HTMX is better than Recact!!
 
 <!---
