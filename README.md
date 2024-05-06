@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Narendra!
 A Project Management Professional and Ex Project Controls Engineer, now I design and develop project monitoring and management solutions focussed on construction sector.<br>
-I love python but inevitably work on Java projects.<br>
-And yeah, HTMX is better than Recact!!
+I love python but inevitably work on JavaScript projects.<br>
+And yeah, I love HTMX!!
 
 <!---
 narendravk/narendravk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
